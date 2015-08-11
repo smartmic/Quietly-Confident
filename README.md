@@ -121,6 +121,10 @@ write your own. Templates are [Template::Toolkit](http://www.template-toolkit.or
 formatted, which is very simple to use AND very flexible. However,
 for now ignore this.
 
+Now generate the static sites:
+
+    $ qc generate
+
 To see how it looks, you might just fire up the built-in
 webserver:
 
